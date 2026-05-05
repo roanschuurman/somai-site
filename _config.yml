@@ -1,0 +1,6 @@
+title: Somai
+description: Guided somatic sessions for body awareness.
+theme: jekyll-theme-minimal
+url: "https://roanschuurman.github.io"
+baseurl: "/somai-site"
+markdown: kramdown
